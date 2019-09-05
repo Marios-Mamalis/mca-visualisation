@@ -27,3 +27,6 @@ The 3d scatterplots' axes are:
 - y-dimension: Name of Category or Individual
 - z-dimension: The value of each dimension for either Contributions, Coordinates or Cosine Squared
 
+Example output:
+
+![Example Result](https://user-images.githubusercontent.com/46795338/64366027-0c91f880-d01e-11e9-822b-473e771e0824.jpg)
